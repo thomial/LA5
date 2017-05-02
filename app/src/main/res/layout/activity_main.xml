@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.thomi.laporanakhir6.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/aplikasi_penghitung_harga"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/text1"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text1"
+        android:id="@+id/jumlah"
+        android:hint="@string/jumlah_makanan"
+
+        />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/makanan"
+        android:id="@+id/Spinner"
+        android:layout_below="@id/jumlah"
+        android:layout_marginTop="10dp">
+
+    </Spinner>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hitung_harga"
+        android:onClick="hitungharga"
+        android:layout_below="@+id/Spinner"
+        android:layout_marginTop="10dp" />
+
+</RelativeLayout>

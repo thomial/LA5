@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LaporanAkhir6</string>
+    <string name="nama_spinner">Makanan</string>
+    <string name="hitung_harga">Hitung Harga</string>
+    <string name="aplikasi_penghitung_harga">Aplikasi Penghitung Harga</string>
+    <string name="masukkan_harga">Masukkan Harga</string>
+    <string name="jumlah_makanan">Jumlah Makanan</string>
+    <string-array name="makanan">
+        <item>Seblak</item>
+        <item>Cilor</item>
+        <item>Cokelat</item>
+        <item>Es Buah</item>
+        <item>Mie Goreng</item>
+        <item>Mie Ayam</item>
+        <item>Nasi Goreng</item>
+        <item>Ayam Bakar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+#Tue May 02 01:24:02 WIB 2017
+base.0=/home/thomi/AndroidStudioProjects/LaporanAkhir6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c78c73cdb086369ba5121a7b0c18cf2eee1170a9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/thomi/AndroidStudioProjects/LaporanAkhir6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d1be3c598d152b792a72c3de32878157819b906d/classes.dex
+base.1=/home/thomi/AndroidStudioProjects/LaporanAkhir6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d1be3c598d152b792a72c3de32878157819b906d
+file.0=/home/thomi/AndroidStudioProjects/LaporanAkhir6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c78c73cdb086369ba5121a7b0c18cf2eee1170a9/classes.dex
